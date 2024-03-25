@@ -12,3 +12,5 @@ document.addEventListener('scroll', deleteAnonPosts);
 
 // Initial purge of anon posts
 deleteAnonPosts();
+
+// test comment
