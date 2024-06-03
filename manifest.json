@@ -3,7 +3,6 @@
     "name": "Remove Facebook anonymous posts",
     "version": "1.0",
     "description": "Remove anonymous posts from Facebook",
-  
     "icons": {
       "16": "images/icon-16.png",
       "32": "images/icon-32.png",
